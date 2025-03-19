@@ -1,5 +1,11 @@
 # Windows-Scripts
 Windows常用脚本
+
+- 激活WINDOWS：`Powershell中运行`
+```Powershell
+irm https://get.activated.win | iex
+```
+---
 - cf_get_ips.py 获取CF IP段python脚本
 - cf_firewall.bat 防火墙只允许CF访问80 443端口批处理
 ---
