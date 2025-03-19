@@ -6,6 +6,8 @@ Windows常用脚本
 irm https://get.activated.win | iex
 ```
 ---
+- 快速建站   https://github.com/x64architecture/wnmp
+---
 - cf_get_ips.py 获取CF IP段python脚本
 - cf_firewall.bat 防火墙只允许CF访问80 443端口批处理
 ---
