@@ -14,3 +14,6 @@ irm https://get.activated.win | iex
 ---
 - export_tasks.ps1 批量导出计划任务 Exporting all scheduled tasks 
 - import_tasks.ps1 批量导入计划任务 Importing all scheduled tasks
+---
+windows远程桌面管理器
+https://learn.microsoft.com/zh-cn/sysinternals/downloads/rdcman
